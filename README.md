@@ -1,1 +1,1 @@
-# NYT-Mongo
+# NYT-MongoScraper
